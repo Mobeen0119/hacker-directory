@@ -1,11 +1,11 @@
 {
   "name": "Mobeen Ahmed",
-  "role": "Student , OS Dev, FUll stack engineering",
+  "role": "Student, OS Dev, Full Stack Engineering",
   "university": "NUML",
   "github": "Mobeen0119",
   "bio": "Software Engineering Student",
-  "tags": ["C", "React", "Node","C++","JS"],
+  "tags": ["C", "React", "Node", "C++", "JS"],
   "links": {
-    "website": "https://www.nelsonfodjo.me"
+    "website": "https://portfolio-mobeen.netlify.app/home"
   }
 }
